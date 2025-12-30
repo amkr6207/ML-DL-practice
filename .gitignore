@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+hello-env/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+#folders
+kaggle/
+prac/
