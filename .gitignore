@@ -15,5 +15,15 @@ env/
 Thumbs.db
 
 #folders
-kaggle/
 prac/
+
+# Ignore Kaggle data files
+*.zip
+*.csv
+data/
+
+
+# IDEs
+.vscode/
+.idea/
+
