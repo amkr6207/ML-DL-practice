@@ -21,6 +21,7 @@ prac/
 *.zip
 *.csv
 data/
+doc/
 
 
 # IDEs
