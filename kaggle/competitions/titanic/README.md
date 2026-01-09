@@ -1,5 +1,8 @@
 # Titanic Solution - Kaggle
 
+## Questions
+[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
+
 ## Prerequisites
 1.  **Environment**: `hello-env` (conda).
     ```bash
@@ -11,6 +14,10 @@
 Run the solution script:
 ```bash
 python solve_titanic.py
+```
+Or use the Jupyter Notebook:
+```bash
+jupyter notebook titanic_solution.ipynb
 ```
 
 ## Output
