@@ -28,3 +28,7 @@ doc/
 .vscode/
 .idea/
 
+#Practice files
+*prac.py
+
+
