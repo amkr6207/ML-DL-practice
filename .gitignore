@@ -15,13 +15,14 @@ env/
 Thumbs.db
 
 #folders
-prac/
+*prac/
+*EDA/    # Exploratory Data Analysis (EDA)
 
 # Ignore Kaggle data files
 *.zip
 *.csv
-data/
-doc/
+*data/
+*doc/
 
 
 # IDEs
